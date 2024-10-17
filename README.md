@@ -15,7 +15,9 @@ I am a Backend Engineer
 
 
 ### :zap: Connect with me:
-<a href="https://t.me/platina_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/Platinaa777/Platinaa777/main/telegram.svg" alt="Platinaa777" height="40" width="40" /></a>
+<a href="https://t.me/platina_777" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=jZ1z64hEYYLW&format=png&color=000000" alt="Platinaa777" height="40" width="40" /></a>
+
+### :cyclone: Skills:
 
 <table align="center">
   <tr>
